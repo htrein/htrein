@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henrique Trein</h1> 
-<h3 align="center">A Computer Science student interested in AI, Machine Learning and Robotics</h3>
+<h3 align="center">A Computer Science student interested in Robotics, AI and Machine Learning</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=htrein&label=Profile%20views&color=0e75b6&style=flat" alt="htrein" />
